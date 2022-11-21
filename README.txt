@@ -1,0 +1,1 @@
+this is a javascript-supported game that is inspired by the google chrome dinosaur game. Enjoy
